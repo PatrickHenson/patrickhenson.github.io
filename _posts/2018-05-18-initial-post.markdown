@@ -11,4 +11,4 @@ After ~10 years of hosting a WordPress site, it's time for a clean start.  Enter
 
 [Setup Google Domains with GitHub Pages](http://www.curtismlarson.com/blog/2015/04/12/github-pages-google-domains/)
 
-[Add and configure the whiteglass theme](https://github.com/yous/whiteglass)
+I spent a decent amount of time configuring a custom theme, however, GitHub pages limits which themes are supported.  I will work on styling later.
