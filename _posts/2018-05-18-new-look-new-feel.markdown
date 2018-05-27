@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "New look. New feel."
+tags: [ jekyll, github ]
 ---
 
 Welcome to the new patrickhenson.com!
