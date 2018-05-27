@@ -13,21 +13,40 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 title: Patrick Henson
+author: Patrick Henson
 email: contact@patrickhenson.com
 description: >- # this means to ignore newlines until "baseurl:"
   I'm Patrick Henson. A motivated software engineer focused on creating clean, reusable code 
   with attention to software requirements and deadlines. This is my personal site where I post 
   personal musings, projects, and usefull resources.  
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://patrickhenson.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Social links
 github_username:  patrickhenson
+linkedin_username: patrickhenson
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+# Customize navigation items displayed in the header
+header_pages:
+  - about.md
+
+header_links:
+  - title: "LinkedIn"
+    url: https://linkedin.com/in/patrickhenson
+  - title: "GitHub"
+    url: https://github.com/patrickhenson
+
+# Determine if the feed displays the contents of the post below the title and date.
+show_excerpts: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+If you haven’t figured it out, my name is Patrick Henson.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Professionally, I’m a software engineer focussed on developing clean, reusable code that meets requirements and deadlines. On a more personal side, I attempt to juggle multiple hobbies, projects, and interests while maintaining a healthy work-life balance. Welcome to my personal site, tied directly to my public GitHub repositories, where I post information regarding a variety of projects. Stay tuned for more!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
