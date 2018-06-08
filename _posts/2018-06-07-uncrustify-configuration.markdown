@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Easy Uncrustify Setup"
+title: "Get Started with Uncrustify"
 tags: [linux, c++]
 ---
 
