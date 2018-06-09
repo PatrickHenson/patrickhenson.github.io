@@ -4,17 +4,32 @@ title: "Getting Started with Uncrustify"
 tags: [linux, c++]
 ---
 
-If you haven't used [Uncrustify](uncrustify.sourceforge.net) before, it's an extremely easy way to ensure that your codebase is consistently formatted.
+Maintaining the _style_ of your code is manageable if it's just you, but how do you handle commits from an entire team? If you haven't used a code beautifier, such as [Uncrustify](uncrustify.sourceforge.net), they're extremely usefull tools that keep your codebase consistently formatted.
 
-Maintaining the _style_ of your code is manageable if it's just you, but how do you handle commits from an entire team?  Uncrustify uses a configurable recipe to ensure that whitespaces, alignment, braces, etc follow a standard format.  This helps prevent useless 'whitespace commits' and allows your code reviews to focus on more important issues.  If you don't want to use Uncrustify, there are many other code beautifiers available through the command line or as add-ons to your favorite editor.
+Several benefits are immediately apparent:
 
-First, install uncrustify.  I'm using an Ubuntu based development environment, but you can install it on other Linux flavors or run it in Cygwin on Windows.
+* configurable to match your coding standards
+
+* easily enforce and apply to your project(s) 
+
+* prevent useless whitespace commits, fix alignment and indentation, place brackets inline or on a newline, etc
+
+* allow code reviews to focus on features and architecture
+
+
+### Install
+
+Uncrustify is available on several Linux flavors and can be run in Cygwin on Windows.  I'm currently using an Ubuntu development environment at home.
 
 ```
 sudo apt-get install uncrustify
 ```
 
-Then configure the _recipe_ you want to use to format your code.  It's easiest to start with a pre-existing config file and edit to fit your coding standards.  The default uncrustify config file can be found [here](https://github.com/uncrustify/uncrustify/blob/master/documentation/htdocs/default.cfg)
+### Configure
+
+It's easiest to start with a pre-existing config file and edit to fit your coding standards.  You can find several examples online, Uncrustify provides a default config file [here](https://github.com/uncrustify/uncrustify/blob/master/documentation/htdocs/default.cfg)
+
+### Run
 
 Running uncrustify is pretty straight forward.  Check the --help for a full list of options.
 
@@ -25,10 +40,13 @@ uncrustify -c ~/uncrustify.cfg --no-backup *.cpp
 uncrustify -c ~/uncrustify.cfg --no-backup *.h
 ```
 
-However, that's not ideal.  I want to use a single command to run uncrustify recursively over all source files in my project.  Creating a custom alias will allow me to choose a meaningful command ('uncrustify-all', 'formatcode', 'wtf-did-you-do-to-my-repo', etc) to do this for me.
+However, that's not ideal.  I want to use a single command to run uncrustify recursively over all source files in my project.  Creating a custom alias will allow me to do this using a meaningful command ('uncrustify-all', 'formatcode', 'wtf-did-you-do-to-my-repo', etc).
+
+This can be done by adding the following line to your .bashrc
+
+```
+alias uncrustify-all='find . \( -name "*.cpp" -o -name "*.c" -o -name "*.h" \) -exec uncrustify -c ~/uncrustify.cfg --no-backup {} +'
 
 ```
 
-```
-
-I chose to go with 'uncrustify-all'.  Now it's a simple matter to navigate to the top directory of my project, uncrustify my changes, commit, and push.
+Now it's a simple matter to navigate to my project's direcotry, format, commit, and push.
