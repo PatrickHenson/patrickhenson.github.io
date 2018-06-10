@@ -18,4 +18,4 @@ This project provides an easily customizable, programatically generated dial wid
 
 I just finished developing the base DialWidget.  When I have time I will expand its functionality, provide several sample classes expanding upon the DialWidget, take screenshots, and update the demo application.  Look for updates in the near future!
 
-[Base DialWidget](https://github.com/PatrickHenson/customizable_dial_widget/blob/master/demo_images/base_dial.png "Base DialWidget")
+[Base DialWidget](https://github.com/PatrickHenson/customizable_dial_widget/blob/master/demo_images/base_dial.png?raw=true "Base DialWidget")
