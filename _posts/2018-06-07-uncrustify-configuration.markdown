@@ -4,7 +4,7 @@ title: "Getting Started with Uncrustify"
 tags: [linux, c++]
 ---
 
-Maintaining the _style_ of your code is manageable if it's just you, but how do you handle commits from an entire team? If you haven't used a code beautifier, such as [Uncrustify](uncrustify.sourceforge.net), they're extremely usefull tools that keep your codebase consistently formatted.
+Maintaining the _style_ of your code is manageable if it's just you, but how do you handle commits from an entire team? If you haven't used a code beautifier, such as [Uncrustify](uncrustify.sourceforge.net), they're extremely useful tools that keep your codebase consistently formatted.
 
 Several benefits are immediately apparent:
 
@@ -49,4 +49,4 @@ alias uncrustify-all='find . \( -name "*.cpp" -o -name "*.c" -o -name "*.h" \) -
 
 ```
 
-Now it's a simple matter to navigate to my project's direcotry, format, commit, and push.
+Now it's a simple matter to navigate to my project's directory, format, commit, and push.
