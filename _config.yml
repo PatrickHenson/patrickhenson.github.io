@@ -28,8 +28,10 @@ google_analytics: UA-119933231-1
 lang: en
 
 # Social links
-github_username:  patrickhenson
-linkedin_username: patrickhenson
+social:
+  links:
+    - https://linkedin.com/in/patrickhenson
+    - https://github.com/patrickhenson
 
 # Build settings
 markdown: kramdown
