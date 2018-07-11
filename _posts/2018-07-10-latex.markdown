@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Learning LaTeX"
+tags: [ resume ]
+---
+
+I was recently discussing my resume with one of my good friends and he mentioned how he used LaTeX for formatting.  It was a pretty easy sell over fighting with word processors to maintain alignment and spacing every time I make a small update.  I'm not able to do complex regions or equations yet, but I did create a simple template using standard packages.  The TEX file for my resume can be found [here](https://github.com/PatrickHenson/resume) in its own repository.
+
