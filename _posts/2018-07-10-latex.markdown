@@ -5,3 +5,6 @@ tags: [ resume ]
 ---
 
 I was recently discussing my resume with one of my good friends and he mentioned how he used LaTeX for formatting.  It was a pretty easy sell over fighting with word processors to maintain alignment and spacing every time I make a small update.  I also decided that it'd be a lot easier to keep track of different versions of my resume by giving it it's own [repository](https://github.com/PatrickHenson/resume).  It's nothing fancy and I haven't mastered LaTeX's ability to display complex regions and equations, but I'm off to a solid start.
+
+Additionally, the resume_template.tex and cover_letter_template.tex are free for public use.  Both templates use the values set in personal_info.tex to generate the header displayed on the page.  To begin using for your own content, refer to the README in the repository.
+
