@@ -26,11 +26,11 @@ It's not as convenient as buying an assembled mechanical keyboard and certainly 
 
 #### DZ60 PCB, Gateron Green Switches, Stainless Steel Plate, Stabilizers
 
-I daily drive my **Vortex Pok3r** and am used to the 60% profile.  Anytime I switch to a 'normal' keyboard layout I end up mashing the caps lock and function keys in an attempt to use my programmed settings.  By using a DZ60 I'll be able to custom program it with my desired layout.
+By using a DZ60 I was able to select a USB-C connector and will be able to program it with my desired layout.  I chose the 60% profile since I daily drive a **Vortex Pok3r**.  Anytime I switch to a 'normal' keyboard I end up mashing the caps lock and random keys in an attempt to use my programmed settings.
 
-Both of my other boards use Cherry MX-Clear switches which are my current favorite.  I choose to build using Gateron Green switches in an attempt to cut the total cost and test out using clicky switches.  They're different, but feel pretty good.
+My other boards use Cherry MX-Clear switches, which are my current favorite.  For this build, I choose to use Gateron Green switches in an attempt to cut cost and test out clicky switches.  They're different, but feel pretty good so far.
 
-I used the plate and stabilizers that came in the kit.  Next time I might sand and paint the plate to customize it further.  The stabilizers that came in the kit fit in place and aren't significantly different than the ones on my other boards.  They're a little scratchy, but I expect them to smooth out over time as they break in.
+I also used the plate and stabilizers that came in the kit rather than ordering custom or original Cherry parts.  I'd consider sanding and painting the plate to customize it further in future builds.  The stabilizers don't feel much different than the ones on my other boards and I expect them to smooth out over time as they break in.
 
 #### Black Aluminum Case
 
@@ -74,7 +74,7 @@ After testing the board, I verified location of switches for the layout I wanted
 
 ### Place Stabilizers
 
-Once I knew where each of the switches would be placed, I installed the stabilizers on the PCB.  I choose not to clip and grease them since they should smooth out with usage.
+Once I knew where each of the switches would be placed, I installed the stabilizers on the PCB.  The feet of the stabilizers have a tab on one side and clips on the other.  Orient the stabilizers on the PCB such that the tab hooks in the large hole and press it down until it clips expand in the small hole.
 
 <img src="/images/dz60_build/place_stabilizers.jpg" />
 
@@ -84,7 +84,7 @@ Time to begin soldering and take the **Hakko FX-888D** on its maiden voyage!  I 
 
 <img src="/images/dz60_build/soldering_area.jpg" />
 
-To hold and align the PCB and plate, I soldered switches in each of the four corners and one in the center. This held everything in place and removed a slight bend from the plate.  I then worked on soldering one row at a time, confirming the keycap positioning, and testing each individual switch's functionality.
+I started by soldering switches in each of the corners and one in the center. This held everything in place and removed a slight bend from the plate.  I then soldered one row at a time, confirmed the positioning of the keycaps, and tested the switches.
 
 <img src="/images/dz60_build/place_switches.jpg" />
 
@@ -174,7 +174,11 @@ My custom key map can be found on [GitHub](https://github.com/PatrickHenson/dz60
 
 ```
 # Copy the key map into qmk_firmware
-cp keymap.c /qmk_firmware/keyboards/dz60/keymaps/custom_keymap
+mkdir ../qmk_firmware/keyboards/dz60/keymaps/custom_keymap
+cp keymap.c ../qmk_firmware/keyboards/dz60/keymaps/custom_keymap
+
+# Navigate to the qmk_firmware directory
+cd ../qmk_firmware
 
 # Compile and flash the key mapping
 sudo make dz60:custom_keymap:dfu
