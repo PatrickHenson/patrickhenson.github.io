@@ -26,11 +26,9 @@ It's not as convenient as buying an assembled mechanical keyboard and certainly 
 
 #### DZ60 PCB, Gateron Green Switches, Stainless Steel Plate, Stabilizers
 
-By using a DZ60 I was able to select a USB-C connector and will be able to program it with my desired layout.  I chose the 60% profile since I daily drive a **Vortex Pok3r**.  Anytime I switch to a 'normal' keyboard I end up mashing the caps lock and random keys in an attempt to use my programmed settings.
+I use my **Vortex Pok3r** daily at work and the 60% has quickly become my favorite keyboard profile.  By using the DZ60 I was also able to select a USB-C connector.
 
-My other boards use Cherry MX-Clear switches, which are my current favorite.  For this build, I choose to use Gateron Green switches in an attempt to cut cost and test out clicky switches.  They're different, but feel pretty good so far.
-
-I also used the plate and stabilizers that came in the kit rather than ordering custom or original Cherry parts.  I'd consider sanding and painting the plate to customize it further in future builds.  The stabilizers don't feel much different than the ones on my other boards and I expect them to smooth out over time as they break in.
+For this build I chose to use Gateron Green switches to test out clicky switches.  My other boards use Cherry MX-Clear switches, which are my current favorites, but these feel pretty good so far.  I also used the plate and stabilizers that came in the kit rather than ordering custom or original Cherry parts.  The stabilizers aren't noticeably different than the ones on my other boards and I expect them to smooth out over time as they break in.  One option I may consider in the future is to sand and paint the plate prior to installing the switches.
 
 #### Black Aluminum Case
 
@@ -52,7 +50,7 @@ It took a while to find the right keycaps, but I'm extremely pleased with the qu
 
 ### Unpack 
 
-The kit was first to arrive!  Which is nice since you can't do much without it.  Also pictured is my **Vortex Pok3r** that I use daily at work.
+The kit was first to arrive!  Which is nice since you can't do much without it.  Also pictured is my **Vortex Pok3r**.
 
 <img src="\images\dz60_build\kit_package.jpg" />
 
@@ -60,21 +58,21 @@ The kit was first to arrive!  Which is nice since you can't do much without it. 
 
 ### Testing the DZ60 PCB
 
-Prior to soldering, I tested the PCB using the [keyboard tester website](http://www.keyboardtester.com/) and a pair of tweezers to confirm that each individual key registered.  This also allowed me to become familiar with the soldering point locations.
+Prior to soldering, I tested the PCB using the [keyboard tester website](http://www.keyboardtester.com/) and a pair of tweezers to confirm that each individual key registered.  This also allowed me to become familiar with the soldering points.
 
 <img src="/images/dz60_build/switch_test.jpg" />
 
-Using the [keyboard tester website](http://www.keyboardtester.com/) made it easy to track and confirm each switch was pressed.  You could also test inside a text editor, but the visual feedback made the process very quick.
+The [keyboard tester website](http://www.keyboardtester.com/) also made it easy to track and confirm each switch.  You could also test inside a text editor, but the visual feedback made the process very quick.
 
 <img src="/images/dz60_build/keyboard_tester.jpg" />
 
 ### Determine Switch Layout
 
-After testing the board, I verified location of switches for the layout I wanted by placing switches on the plate without fully inserting them and resting the keycaps on top.  This allowed me to verify which soldering points to use for the bottom row and wide modifier keys.
+After testing the PCB, I verified switch placement for my desired layout by placing them on the plate and resting the keycaps on top.  I then verified which soldering points to use for the bottom row and wide modifier keys.
 
 ### Place Stabilizers
 
-Once I knew where each of the switches would be placed, I installed the stabilizers on the PCB.  The feet of the stabilizers have a tab on one side and clips on the other.  Orient the stabilizers on the PCB such that the tab hooks in the large hole and press it down until it clips expand in the small hole.
+Once I knew where each of the switches would be placed, I installed the stabilizers on the PCB.  The feet of the stabilizers have a tab on one side and clips on the other.  Orient the stabilizers on the PCB such that the tab hooks in the large hole and press it down until the clips expand in the small hole.
 
 <img src="/images/dz60_build/place_stabilizers.jpg" />
 
