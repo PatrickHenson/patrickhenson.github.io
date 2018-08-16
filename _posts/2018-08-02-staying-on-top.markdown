@@ -8,6 +8,10 @@ One thing that's been in the back of my mind is "how to stay on top of my career
 
 Currently I peruse reddit, listen to podcasts, pickup books, follow a few blogs, attend local meetups, and read articles from [Hacker News](https://news.ycombinator.com/) and [LinkedIn](https://www.linkedin.com).  There are thousands of resources available and the internet has made many of them extremely accessible.  It's also impossible to keep up with everything as technology and its applications are constantly changing.
 
+However, I personally find the best way to learn is through hands on experimentation in personal projects or at work.  I tend to have several projects in progress (not always software/tech...DIY gear, simple furniture, DnD props, etc), but at some point coming home to study/read/code started to feel exhausting.  I'm currently working on setting aside dedicated coding time and one thing that has helped is keeping a list of ideas for future pursuit.  Minimally, it allows me to think through how I would architect and implement the project which is a form of practice on its own.
+
+A pet peeve of mine is studying for interviews.  The concepts are important, but it can feel repetitive compared to discovering something new.  Having sat on the other side of the table, interviewing is almost an art of its own as you attempt to assess the skills and competency of the candidate.  FizzBuzz and similar questions have their place, but there's a balance between 'pop-quiz' and evaluating a skill set.
+
 Reddit:
 * [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/)
 * [/r/embedded](https://www.reddit.com/r/embedded/)
@@ -26,10 +30,6 @@ Books (a few that are easy to recommend as a starting point):
 * The Mythical Man Month
 * Code Complete
 * ...
-
-However, I personally find the best way to learn is through hands on experimentation in personal projects or at work.  Coming home to study/read/code can feel exhausting and is an area that I'm working to set aside time and focus.  One thing that has helped is keeping a list of project ideas for future pursuit.  Minimally, it allows me to think through how I would architect and implement the project which is a form of practice on its own.
-
-One pet peeve of mine is 'studying' for interviews.  The concepts are important, but it can feel as though dusting off and rehashing topics unrelated to the skills necessary to perform the job.  Interviewing is almost an art of its own as there are challenges in assessing skills without credentialing.
 
 Interview Resources:
 * Cracking the Coding Interview
