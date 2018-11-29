@@ -17,6 +17,9 @@ The demo project is structured as follows:
     run_all_tests.py*
 ```
 
+
+**demo.py**
+
 ```
 def demoFunction():
   return 'test'
