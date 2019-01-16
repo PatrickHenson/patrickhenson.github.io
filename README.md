@@ -21,7 +21,7 @@ bundle update github-pages
 
 ## Test Local
 
-After building and serving locally, you can preview the local Jekyll site at [http://localhost:4000](http://localhost:4000)
+After building and serving, you can preview the Jekyll site at [http://localhost:4000](http://localhost:4000)
 
 ## License
 
