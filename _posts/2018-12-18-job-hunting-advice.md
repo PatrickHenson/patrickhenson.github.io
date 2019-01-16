@@ -37,7 +37,7 @@ A few common reasons for transitioning are listed below.
 # Resume <a name="resume"></a>
 ---
 
-**The usual recommendations**
+The usual recommendations
 
 * Legible and organized.  It often helps to find a template or sample resume that you like.
 * Check for spelling and punctuation errors.
@@ -46,7 +46,7 @@ A few common reasons for transitioning are listed below.
 
 Remember that screening, interviewing, and extending offers takes a significant amount of time and resources.  Your resume is what gets you in the door.
 
-**What do I do when I receive a stack of resumes?**
+What do I do when I receive a stack of resumes?
 
 * Briefly read the resume and determine if the candidate seems interesting and matches most of the requirements.  This is strictly a gut feel.
 
@@ -124,11 +124,11 @@ A few of my requirements when working with a recruiter:
 
 For technical interviews it's common to study materials related to your field prior to the interview.  I've written a [prior post](2018/08/02/staying-on-top.html) where I discused general things I do.
 
-**Being nervous/anxious/stressed/etc**
+Being nervous/anxious/stressed/etc
 
 It's perfectly normal to feel a variety of emotions leading into an interview.  I've gotten more comfortable with the interview process as I've gained experience and it helps to have a pre-interview routine.  Fortunately, the person interviewing you also understands how it feels.  I typically start an interview with a quick introductions and casual chat to ease candidate before jumping into the technical discussion.
 
-**My pre-interview routine**
+My pre-interview routine
 
 * Plenty of sleep night before.
 * Wake with time to relax, read news, glance at prep material, grab a coffee.
@@ -146,8 +146,7 @@ In-person:
 * Chat with the receptionist to get a soft feel for the company.  The manager will ask what they thought of you.
 * Hit the restroom, grab a coffee/water
 
-
-**First impressions matter**
+First impressions matter
 * Good handshake
 * Communicate well and come across as polite, approachable, and friendly
 * Ask questions when unsure of the question or answer. 
@@ -171,7 +170,7 @@ While I've never tried it in an interview, the above question and answer is alwa
 
 Throughout the interview I take notes on my general impression, the team, the tools and environment, follow up questions, if the position matches what I'm looking for, and if there are any red flags or deal breakers.
 
-**What kinds of questions should you expect in an interview?**
+What kinds of questions should you expect in an interview?
 
 Ask about a project/publication/etc.
 * I want to see how well you can communicate what the project was and what you specifically contributed.
@@ -200,7 +199,7 @@ Things you cannot be asked:
 Technical Interview:
 This varies from field to field, but often involves being asked how you would solve some problem.
 
-**Follow up:**
+Follow up:
 I typically send a quick email thanking them for their time and any follow up questions that weren't answered during the interview.  I also ask when I should expect a decision if it wasn't stated during the interview.
 
 # The Offer <a name="offer"></a>
@@ -247,10 +246,12 @@ Government (direct and contract) vs private sector:
 ---
 
 **When to negotiate?**
+
 * After you have an official written offer.  This allows you to review the full package, take notes, and compare offers prior to starting negotiations.  
 * Ask when they need a decision.  Requesting a few days or a week or two to consider the offer is normal, any longer might be pushing it.
 
 **Things that help negotiation**
+
 * You have multiple offers in the same time frame.
 * Already have a job.  If they aren't willing to meet your expectations, you can take your time looking elsewhere without worrying.
 
