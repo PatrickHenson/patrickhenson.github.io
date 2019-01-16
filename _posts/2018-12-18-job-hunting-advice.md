@@ -53,7 +53,7 @@ Remember that screening, interviewing, and extending offers takes a significant 
 
 * For the few candidates that passed the first glance, I reread their resume looking at what they've worked on and specifically what their personal contribution was.
 
-* Public online presence.  You can control what information publicly available and I will look at it.  Mostly I focus on their LinkedIn, GitHub (or online portfolio), personal website, and a quick search for their name.  If your personal social media accounts aren't restricted, I assume you have poor understanding of privacy and security.
+* Public online presence.  You can control what information is publicly available and I will look at it.  Mostly I focus on their LinkedIn, GitHub (or online portfolio), personal website, and a quick search for their name.  If your personal social media accounts aren't restricted, I assume you have poor understanding of privacy and security.
 
 * At this point I typically know if I'm going to recommend interviewing the candidate.  If they're a strong maybe, I might discuss them with another member of the team.
 
