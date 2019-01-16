@@ -4,8 +4,7 @@ title: "Job Search - Resources, Information, and Advice"
 tags: [ career ]
 ---
 
-This post contains information that I've found useful when planning to take the next step in my career.  I've personally gone through the job search process several times, have interviewed a wide variety of candidates, and assisted friends and colleagues with their own job search.  While most of my experience is working with candidates in STEM (Science, Technology, Engineering, and Math) I hope that the contents are useful for a wider audience as well.
-
+This post contains information that I've found useful when planning to take the next step in my career.  I've personally gone through the job search process several times, have interviewed a wide variety of candidates, and assisted friends and colleagues with their own job search.  My experience is working with STEM (Science, Technology, Engineering, and Math) candidates, however, most of the information in this post is fairly general and should be helfpul to a wider audience.
 
 # Table of Contents
 * [Why are you looking for a job](#why)
@@ -22,24 +21,24 @@ This post contains information that I've found useful when planning to take the 
 # Why are you looking for a job <a name="why"></a>
 ---
 
-The first hurdle is deciding that you're ready to take the next step in your career.  Sometimes this decision is made for you (downsizing, end of contract, etc), but often it's due to a number of other influencing factors.  While it seems obvious, identifying why you are looking for a job is a useful practice.  There are dozens of potential reasons, but a few common ones are listed below.
+The first hurdle is deciding that you're ready to take the next step in your career.  Sometimes this decision is made for you (downsizing, end of contract, etc), but often it's due to a number of other influencing factors.  While it seems obvious, identifying why you are looking for a job is a useful practice since it allows you to focus on what you require from a potential position.  
+
+A few common reasons for transitioning are listed below.
 
 * Skill Development: For whatever reason, you're ready to find a position that will allow you to develop new or existing skills.  **Identify what skills you are looking to develop** and determine what is needed to 'get your foot in the door'.  Is your current experience related?  Do you need to gain related experience first (grad school, online courses, personal projects, etc)?
 
 * Change career path:  It's time for something different, but what?  Are you looking for a leadership role, working on something different, interaction with customers, etc?  Have you developed the skills necessary for the new position or can you explain (and update your resume to reflect) how your current experience is related?  I've found it beneficial to talk with other people to get a feel for what their responsibilities are and if it still interests me.  You may also be able to take on some of these responsibilities in your current position to see if it is a good match.
 
-* Money: Is a perfectly valid reason.  If you feel that you are underpaid then why wouldn't you look for a better opportunity.  Not only is changing positions the easiest way to get a raise, it allows you to potentially negotiate a better overall offer.  This is why performing salary research is important.  You need to realistically **identify what you are worth** by looking at the local job market, understand how it compares to the national average for your field, and how each company you consider compensates.
+* Money: Is a perfectly valid reason.  If you feel that you are underpaid then why wouldn't you look for a better opportunity.  Not only is changing positions the easiest way to get a raise, it allows you to potentially negotiate a better overall offer.  This is why performing salary research is important.  You need to realistically identify what you are worth by looking at the local job market, understand how it compares to the national average for your field, and how each company you consider compensates.  It's also possible to negotiate a raise within your current company or ask for a counter offer, but your experience may vary.
 
-* Management/Team:  Unfortunately, you will encounter people that are difficult to work with.  I've often heard "people quit bosses, not jobs" as a warning to both managers and candidates.  If this is the case, focus on what traits you like in a boss or coworkers rather than things you do not like.  Focusing on positive aspects is good approach for life in general, but it also influences how you approach the job search and interview.  **I want to hear what a candidate liked in a boss or what things their team did right, not that they hate everyone they've ever worked with.**
-
-Once you've determined the reason why, you can list what you are looking for in a new position.  This is highly personal, but allows you to narrow down your search and focus on what you look for during the interview process.  I find it helpful take notes on my general impression, retain follow up questions, if the position matches what I'm looking for, and if there are any red flags or deal breakers.
-
+* Management/Team:  Unfortunately, you will encounter people that are difficult to work with.  I've often heard "people quit bosses, not jobs" as a warning to both managers and candidates.  If this is the case, focus on what traits you like in a boss or coworkers rather than things you do not like.  Focusing on positive aspects is good approach for life in general, but it also influences how you approach the job search and interview.  I want to hear what a candidate liked in a boss or what things their team did right, not that they hate everyone they've ever worked with.
 
 
 # Resume <a name="resume"></a>
 ---
 
-The usual recommendations: 
+**The usual recommendations**
+
 * Legible and organized.  It often helps to find a template or sample resume that you like.
 * Check for spelling and punctuation errors.
 * Describe your personal accomplishments.  "I worked for a company" vs "I did x resulting in y"
@@ -129,7 +128,7 @@ For technical interviews it's common to study materials related to your field pr
 
 It's perfectly normal to feel a variety of emotions leading into an interview.  I've gotten more comfortable with the interview process as I've gained experience and it helps to have a pre-interview routine.  Fortunately, the person interviewing you also understands how it feels.  I typically start an interview with a quick introductions and casual chat to ease candidate before jumping into the technical discussion.
 
-My pre-interview routine:
+**My pre-interview routine**
 
 * Plenty of sleep night before.
 * Wake with time to relax, read news, glance at prep material, grab a coffee.
@@ -147,7 +146,8 @@ In-person:
 * Chat with the receptionist to get a soft feel for the company.  The manager will ask what they thought of you.
 * Hit the restroom, grab a coffee/water
 
-First impressions matter:
+
+**First impressions matter**
 * Good handshake
 * Communicate well and come across as polite, approachable, and friendly
 * Ask questions when unsure of the question or answer. 
@@ -169,7 +169,9 @@ Dress well, but know what is appropriate.
 
 While I've never tried it in an interview, the above question and answer is always lingering in the back of my mind.  Doing a little prep work ahead of time will hopefully keep you from blurting it out too.
 
-Below are a few examples of what I'm looking for when conducting an interview.
+Throughout the interview I take notes on my general impression, the team, the tools and environment, follow up questions, if the position matches what I'm looking for, and if there are any red flags or deal breakers.
+
+**What kinds of questions should you expect in an interview?**
 
 Ask about a project/publication/etc.
 * I want to see how well you can communicate what the project was and what you specifically contributed.
@@ -195,7 +197,11 @@ What is your weakness?
 Things you cannot be asked:
 * religion, family status, marital status, are you pregnant, where are you from, etc.
 
+Technical Interview:
+This varies from field to field, but often involves being asked how you would solve some problem.
 
+**Follow up:**
+I typically send a quick email thanking them for their time and any follow up questions that weren't answered during the interview.  I also ask when I should expect a decision if it wasn't stated during the interview.
 
 # The Offer <a name="offer"></a>
 ---
@@ -211,11 +217,11 @@ If you have multiple competitive offers, then you have a variety of factors to c
 # Salary & Benefits <a name="salarybenefits"></a>
 ---
 
-When to discuss salary?
+**When to discuss salary?**
 * You will be asked about your salary expectation and current salary.  I only provide my salary expectation since what I currently make is not relevant to their ability to extend me a fair and competitive offer.
 * *I'm looking for $X.  However, I will consider any competitive offer since I look at the overall compensation and benefits.*
 
-Salary Research
+**Salary Research**
 
 * Determining what you're worth is a challenge since you're attempting to place a dollar value on your labor.  
 * Research the national, regional, and local market value for your position. Then look at each company you're considering and get a feel for how they compare.
@@ -240,15 +246,15 @@ Government (direct and contract) vs private sector:
 # Negotiation <a name="negotiation"></a>
 ---
 
-When to negotiate
+**When to negotiate?**
 * After you have an official written offer.  This allows you to review the full package, take notes, and compare offers prior to starting negotiations.  
 * Ask when they need a decision.  Requesting a few days or a week or two to consider the offer is normal, any longer might be pushing it.
 
-Things that help negotiation.
+**Things that help negotiation**
 * You have multiple offers in the same time frame.
 * Already have a job.  If they aren't willing to meet your expectations, you can take your time looking elsewhere without worrying.
 
-What can you negotiate or consider when negotiating?
+**What can you negotiate or consider when negotiating?**
 
 Salary:
 * There's always a range. 
@@ -257,12 +263,13 @@ Salary:
 
 Bonus
 * Do they give out bonuses? (annual, quarterly, etc)  How is it calculated?
-* It might be negotiable.  I was once able to negotiate my bonus from 5% to 9% of total salary.
+* It might be negotiable.  I was able to negotiate a bonus from 5% to 9% of total salary.
 
 Sign on and relocation costs.  (seems to depend on industry and how high demand is) 
 * Can't hurt to ask.
 * What are the terms?  Typically there is a time requirement.  Example: I had to be with the company in Austin for at least 13 months or pay them back.
-* I've had a few offers that included sign on bonuses.  My current company didn't, but the overall offer was better.
+* I've had a few offers that included sign on bonuses.  
+* Keep in mind that a small one time bonus might not be as good of an offer when you consider future earning potential of the package.
 
 Retirement funds - 401K or 403B (for non-profits)
 * Does the company have a retirement plan?
