@@ -200,7 +200,11 @@ Things you cannot be asked:
 # The Offer <a name="offer"></a>
 ---
 
-Congratulations!  You got the offer.  If it's your dream job your almost done.  If you have multiple offers and they're all good
+Congratulations!  You got the offer.
+
+If it's your dream job your almost done.  
+
+If you have multiple competitive offers, then you have a variety of factors to consider and a tough decision ahead.
 
 
 
