@@ -170,7 +170,7 @@ While I've never tried it in an interview, the above question and answer is alwa
 
 Throughout the interview I take notes on my general impression, the team, the tools and environment, follow up questions, if the position matches what I'm looking for, and if there are any red flags or deal breakers.
 
-What kinds of questions should you expect in an interview?
+**What kinds of questions should you expect in an interview?**
 
 Ask about a project/publication/etc.
 * I want to see how well you can communicate what the project was and what you specifically contributed.
