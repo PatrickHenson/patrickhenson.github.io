@@ -4,7 +4,7 @@ title: "Job Search - Resources, Information, and Advice"
 tags: [ career ]
 ---
 
-This post contains information that I've found useful when planning to take the next step in my career.  I've personally gone through the job search process several times, have interviewed a wide variety of candidates, and assisted friends and colleagues with their own job search.  My experience is working with STEM (Science, Technology, Engineering, and Math) candidates, however, most of the information in this post is fairly general and should be helfpul to a wider audience.
+This post contains information that I've found useful when planning to take the next steps in my career.  I've personally gone through this process several times, have interviewed a wide variety of candidates, and assisted friends and colleagues with their own job search.  Most of my experience is working with STEM candidates, however, the information in this post is fairly general and should be helfpul to a wider audience.
 
 # Table of Contents
 * [Why are you looking for a job](#why)
@@ -27,30 +27,43 @@ A few common reasons for transitioning are listed below.
 
 * Skill Development: For whatever reason, you're ready to find a position that will allow you to develop new or existing skills.  **Identify what skills you are looking to develop** and determine what is needed to 'get your foot in the door'.  Is your current experience related?  Do you need to gain related experience first (grad school, online courses, personal projects, etc)?
 
-* Change career path:  It's time for something different, but what?  Are you looking for a leadership role, working on something different, interaction with customers, etc?  Have you developed the skills necessary for the new position or can you explain (and update your resume to reflect) how your current experience is related?  I've found it beneficial to talk with other people to get a feel for what their responsibilities are and if it still interests me.  You may also be able to take on some of these responsibilities in your current position to see if it is a good match.
+* Change career path:  It's time for something different, but what?  Are you looking for a leadership role, working on something different, interaction with customers, etc?  **Have you developed the skills necessary for the new position or can you explain how your current experience is related?**  I've found it beneficial to talk with other people to get a feel for what their responsibilities are and if it still interests me.  You may also be able to take on some of these responsibilities in your current position to see if it is a good match.
 
-* Money: Is a perfectly valid reason.  If you feel that you are underpaid then why wouldn't you look for a better opportunity.  Not only is changing positions the easiest way to get a raise, it allows you to potentially negotiate a better overall offer.  This is why performing salary research is important.  You need to realistically identify what you are worth by looking at the local job market, understand how it compares to the national average for your field, and how each company you consider compensates.  It's also possible to negotiate a raise within your current company or ask for a counter offer, but your experience may vary.
+* Money: Is a perfectly valid reason.  If you feel that you are underpaid then why wouldn't you look for a better opportunity.  Not only is changing positions the easiest way to get a raise, it allows you to potentially negotiate a better overall offer.  This is why performing salary research is important.  You need to **realistically identify what you are worth by looking at the local job market**, understand how it compares to the national average for your field, and how each company you consider compensates.  It's also possible to negotiate a raise within your current company or ask for a counter offer, but your experience may vary.
 
-* Management/Team:  Unfortunately, you will encounter people that are difficult to work with.  I've often heard "people quit bosses, not jobs" as a warning to both managers and candidates.  If this is the case, focus on what traits you like in a boss or coworkers rather than things you do not like.  Focusing on positive aspects is good approach for life in general, but it also influences how you approach the job search and interview.  I want to hear what a candidate liked in a boss or what things their team did right, not that they hate everyone they've ever worked with.
+* Management/Team:  Unfortunately, you will encounter people that are difficult to work with.  I've often heard "people quit bosses, not jobs" as a warning to both managers and candidates.  If this is the case, **focus on what traits you like in a boss or coworkers rather than things you do not like**.  Focusing on positive aspects is good approach for life in general, but it also influences how you approach the job search and interview.  I want to hear what a candidate liked in a boss or what things their team did right, not that they hate everyone they've ever worked with.
 
 
 # Resume <a name="resume"></a>
 ---
 
-The usual recommendations
+The usual recommendations:
 
 * Legible and organized.  It often helps to find a template or sample resume that you like.
-* Check for spelling and punctuation errors.
-* Describe your personal accomplishments.  "I worked for a company" vs "I did x resulting in y"
-* Is you resume more than one page?  It's too long.  Do you have a PhD, several patents/publications, or a significant amount of experience?  It's probably still too long.
+* Check for spelling and punctuation errors.  Very little chance you get a second look.  It's more understandable for ESL candidates, but there are tons of resources available to prevent this.
+* Describe your personal accomplishments instead of listing your job description. I want to know what skills you have and what you've accomplished. "I did x resulting in y"
+* Is you resume more than one page?  It's too long.  Do you have a PhD, several patents/publications, or a significant amount of career experience?  It's probably still too long.
+* Don't lie.  Not sure why anyone does this, but I see it far too often.  Don't list a skillset (or even better, claim to be expert) if you cannot answer the most basic questions.
 
-Remember that screening, interviewing, and extending offers takes a significant amount of time and resources.  Your resume is what gets you in the door.
+Remember that screening, interviewing, and extending offers takes a significant amount of company time and resources.  Your resume is what gets you in the door.
+
+Resources:
+
+* University or college career counseling office, alumni network, career fair.  Many schools have dedicated resources to help their students enter the work force.  Ask if they provide resume editing, mock interviews, or other resources.
+
+* Online forums such as [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/), [/r/resumes](https://www.reddit.com/r/resumes/), [hackernews](https://news.ycombinator.com), etc allow you to get feedback from others in your field.  I'd recommend anonymizing your personal details before posting.
+
+* Ask people for resumes.  There are 'example resumes' online, but I've found it much more useful to ask someone in the industry for a copy of their resume.  Most don't mind and it's a great way to collect a sample set and insight into your field.  Contact me if you'd like a copy.  My resume template is also publicly available on GitHub.
+
+* Ask people to look at your resume.  Friends, family, professors, that guy you met at a conference, etc.  Even better if they don't know what a technology or skill is because you get to practice explaining it in a clear and concise manner.
+
+* The internet is for...resume advice.  There are an infinite number of blogs and articles (like this one!) that may have useful information.  Take what you like and ignore the rest.
 
 What do I do when I receive a stack of resumes?
 
 * Briefly read the resume and determine if the candidate seems interesting and matches most of the requirements.  This is strictly a gut feel.
 
-* For the few candidates that passed the first glance, I reread their resume looking at what they've worked on and specifically what their personal contribution was.
+* For the few candidates that passed the first glance, I reread their resume looking at what they've worked on and specifically what their personal contribution was.  I try to see if their skillset and domain align with what I need or if they seem capable of picking it up.
 
 * Public online presence.  You can control what information is publicly available and I will look at it.  Mostly I focus on their LinkedIn, GitHub (or online portfolio), personal website, and a quick search for their name.  If your personal social media accounts aren't restricted, I assume you have poor understanding of privacy and security.
 
@@ -63,7 +76,7 @@ What do I do when I receive a stack of resumes?
 
 Your LinkedIn profile should be a reflection of your resume with the benefit that you're not limited by page length.  This ensures that all of your experience can be listed in detail.
 
-* If you're looking out of state or in another city, update the region to reflect where you are looking for positions.
+* If you're looking out of state or in another city, update the region to reflect where you are looking for positions.  I've moved across the country twice and this made it a lot easier to work with recruiters and explain to companies.
 
 * List anything relevant to your career: individual skills, hobbies, publications, volunteer work, personal projects, links to other sources, etc.  
 
@@ -72,7 +85,7 @@ Your LinkedIn profile should be a reflection of your resume with the benefit tha
 # Personal Website <a name="personalwebsite"></a>
 ---
 
-Having a personal website is not required and in many cases, not necessary.  However, it does allow you to create a personal brand and control how your present yourself.  This is useful if you have publications, media content, presented at conferences or seminars, and other content that doesn't fit on your resume or LinkedIn profile.
+Having a personal website is not required and in many cases, not necessary.  However, it does allow you to create a personal brand and control how your present yourself.  This is useful if you have publications, media content, presented at conferences or seminars, and other content that doesn't fit on your resume or LinkedIn profile.  It's also a great way to showcase personal projects and a bit of your personality.
 
 
 
@@ -81,7 +94,7 @@ Having a personal website is not required and in many cases, not necessary.  How
 
 **Company website**
 
-If there's a company you're interested in, the best place to look is often the career section on their website.  
+If there's a company you're interested in, the best place to look is often the career section on their website.  Most have some form of software filters, but it's one of the most reliable ways to get your resume seen by the company.
 
 **Indeed**
 
@@ -89,7 +102,7 @@ Indeed has been the best in my experience for finding opening positions that mat
 
 **LinkedIn**
 
-I've found several opening positions on LinkedIn that led to interviews and offers.  They have searchable job post section and 'recommended' posts, which often didn't align with the region I was looking or type of position.  However, you do have the benefit of being able to look into people that work for the company and can often see who posted the position.
+I've found several opening positions on LinkedIn that led to interviews and offers.  They have searchable job post section and 'recommended' posts, which often didn't align with the region I was looking or type of position.  However, you do have the benefit of being able to look into people that work for the company and can often see who posted the position.  You can also reach out to people directly to discuss the company and pass along your resume.
 
 **Other Job Sites**
 
@@ -117,6 +130,9 @@ A few of my requirements when working with a recruiter:
 
 * I only provide my salary requirement, not my salary history.
 
+**Personal Connects, Conferences, Etc** 
+
+Networking is difficult, but it's an excellent way to discover openings and get your resume seen.
 
 
 # Preparing for the Interview <a name="preparing"></a>
