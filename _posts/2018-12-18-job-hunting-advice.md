@@ -4,7 +4,7 @@ title: "Job Search - Resources, Information, and Advice"
 tags: [ career ]
 ---
 
-This post contains information that I've found useful when planning to take the next steps in my career.  I've personally gone through this process several times, have interviewed a wide variety of candidates, and assisted friends and colleagues with their own job search.  Most of my experience is working with STEM candidates, however, the information in this post is fairly general and should be helfpul to a wider audience.
+This post contains information that I've found useful when planning to take the next steps in my career.  I've personally gone through this process several times, have interviewed a wide variety of candidates, and assisted friends and colleagues with their resumes and job searches.  Most of my experience is working with STEM candidates, however, the information in this post is fairly general and should be helfpul to a wider audience.
 
 # Table of Contents
 * [Why are you looking for a job](#why)
@@ -42,8 +42,8 @@ The usual recommendations:
 * Legible and organized.  It often helps to find a template or sample resume that you like.
 * Check for spelling and punctuation errors.  Very little chance you get a second look.  It's more understandable for ESL candidates, but there are tons of resources available to prevent this.
 * Describe your personal accomplishments instead of listing your job description. I want to know what skills you have and what you've accomplished. "I did x resulting in y"
-* Is you resume more than one page?  It's too long.  Do you have a PhD, several patents/publications, or a significant amount of career experience?  It's probably still too long.
-* Don't lie.  Not sure why anyone does this, but I see it far too often.  Don't list a skillset (or even better, claim to be expert) if you cannot answer the most basic questions.
+* Is your resume more than one page?  It's too long.  Do you have a PhD, several patents/publications, or a significant amount of career experience?  It's probably still too long.
+* Don't lie.  Not sure why anyone does this, but I see it far too often.  Don't list a skill set (or even better, claim to be expert) if you cannot answer the most basic questions.
 
 Remember that screening, interviewing, and extending offers takes a significant amount of company time and resources.  Your resume is what gets you in the door.
 
@@ -53,9 +53,9 @@ Resources:
 
 * Online forums such as [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/), [/r/resumes](https://www.reddit.com/r/resumes/), [hackernews](https://news.ycombinator.com), etc allow you to get feedback from others in your field.  I'd recommend anonymizing your personal details before posting.
 
-* Ask people for resumes.  There are 'example resumes' online, but I've found it much more useful to ask someone in the industry for a copy of their resume.  Most don't mind and it's a great way to collect a sample set and insight into your field.  Contact me if you'd like a copy.  My resume template is also publicly available on GitHub.
+* Ask people for resumes.  There are 'example resumes' online, but I've found it much more useful to ask someone in the industry for a copy of their resume.  Most don't mind and it's a great way to collect a sample set and insight into your field.  Contact me if you'd like a copy.  My Latex resume template is also publicly available on GitHub.
 
-* Ask people to look at your resume.  Friends, family, professors, that guy you met at a conference, etc.  Even better if they don't know what a technology or skill is because you get to practice explaining it in a clear and concise manner.
+* Ask people to look at your resume.  Friends, family, professors, that guy you met at a conference, etc.  Even better if they don't know what a technology or skill is because you get to practice explaining it in a clear and concise manner.  They'll also help catch any spelling mistakes, gramatical errors, and missing punctuation.
 
 * The internet is for...resume advice.  There are an infinite number of blogs and articles (like this one!) that may have useful information.  Take what you like and ignore the rest.
 
@@ -63,7 +63,7 @@ What do I do when I receive a stack of resumes?
 
 * Briefly read the resume and determine if the candidate seems interesting and matches most of the requirements.  This is strictly a gut feel.
 
-* For the few candidates that passed the first glance, I reread their resume looking at what they've worked on and specifically what their personal contribution was.  I try to see if their skillset and domain align with what I need or if they seem capable of picking it up.
+* For the few candidates that passed the first glance, I reread their resume looking at what they've worked on and specifically what their personal contribution was.  I try to see if their skill set and domain align with what I need or if they seem capable of picking it up.
 
 * Public online presence.  You can control what information is publicly available and I will look at it.  Mostly I focus on their LinkedIn, GitHub (or online portfolio), personal website, and a quick search for their name.  If your personal social media accounts aren't restricted, I assume you have poor understanding of privacy and security.
 
@@ -85,7 +85,7 @@ Your LinkedIn profile should be a reflection of your resume with the benefit tha
 # Personal Website <a name="personalwebsite"></a>
 ---
 
-Having a personal website is not required and in many cases, not necessary.  However, it does allow you to create a personal brand and control how your present yourself.  This is useful if you have publications, media content, presented at conferences or seminars, and other content that doesn't fit on your resume or LinkedIn profile.  It's also a great way to showcase personal projects and a bit of your personality.
+Having a personal website is not required and in many cases, not necessary.  However, it does allow you to create a personal brand and control how you present yourself.  This is useful if you have publications, media content, presented at conferences or seminars, and other content that doesn't fit on your resume or LinkedIn profile.  It's also a great way to showcase personal projects and a bit of your personality.
 
 
 
@@ -102,7 +102,7 @@ Indeed has been the best in my experience for finding opening positions that mat
 
 **LinkedIn**
 
-I've found several opening positions on LinkedIn that led to interviews and offers.  They have searchable job post section and 'recommended' posts, which often didn't align with the region I was looking or type of position.  However, you do have the benefit of being able to look into people that work for the company and can often see who posted the position.  You can also reach out to people directly to discuss the company and pass along your resume.
+I've found several open positions on LinkedIn that led to interviews and offers.  They have searchable job post section and 'recommended' posts, which often didn't align with the region I was looking or type of position.  However, you do have the benefit of being able to look into people that work for the company and can often see who posted the position.  You can also reach out to people directly to discuss the company and pass along your resume.
 
 **Other Job Sites**
 
@@ -130,7 +130,7 @@ A few of my requirements when working with a recruiter:
 
 * I only provide my salary requirement, not my salary history.
 
-**Personal Connects, Conferences, Etc** 
+**Personal Connections, Conferences, Etc** 
 
 Networking is difficult, but it's an excellent way to discover openings and get your resume seen.
 
@@ -142,7 +142,7 @@ For technical interviews it's common to study materials related to your field pr
 
 Being nervous/anxious/stressed/etc
 
-It's perfectly normal to feel a variety of emotions leading into an interview.  I've gotten more comfortable with the interview process as I've gained experience and it helps to have a pre-interview routine.  Fortunately, the person interviewing you also understands how it feels.  I typically start an interview with a quick introductions and casual chat to ease candidate before jumping into the technical discussion.
+It's perfectly normal to feel a variety of emotions leading into an interview.  I've gotten more comfortable with the interview process as I've gained experience and it helps to have a pre-interview routine.  Fortunately, the person interviewing you also understands how it feels.  I typically start an interview with a quick introduction and casual chat to ease the candidate before jumping into the technical discussion.
 
 My pre-interview routine
 
@@ -169,11 +169,11 @@ First impressions matter
 * Be honest.  I'd much rather be told "I don't know" or "I'd need to look it up or research it" vs several minutes of obvious B.S.
 
 Dress well, but know what is appropriate.
-* It doesn't hurt to dress professionally.  If you know the company/culture then attempt to fit in.
+* It doesn't hurt to dress professionally, however, if you know the company/culture you can dress to fit in.
 * Engineering: My daily "uniform": nice jeans, button up, matching shoes/belt.  However, software tends to be pretty casual and I could get away with a t-shirt and sneakers.
 * Finance, Defense: Business professional for the interview and company events. Business casual when showing up for work.
 * Laid back startup: Jeans and polo or a t-shirt.  Wearing a suit shows you don't understand the company culture.
-* Medical: Business professional. skirt/slacks and nice blouse. a-line dress. business suit. Need to come across as professional and as a leader for interaction with patients, nurses, medical assistants, etc.
+* Medical: Business professional. Skirt/slacks and nice blouse. A-line dress. Business suit. You need to come across as professional and as a leader for interaction with patients, nurses, medical assistants, etc.
 
 
 
@@ -184,7 +184,6 @@ Dress well, but know what is appropriate.
 
 While I've never tried it in an interview, the above question and answer is always lingering in the back of my mind.  Doing a little prep work ahead of time will hopefully keep you from blurting it out too.
 
-Throughout the interview I take notes on my general impression, the team, the tools and environment, follow up questions, if the position matches what I'm looking for, and if there are any red flags or deal breakers.
 
 **What kinds of questions should you expect in an interview?**
 
@@ -215,7 +214,35 @@ Things you cannot be asked:
 Technical Interview:
 This varies from field to field, but often involves being asked how you would solve some problem.
 
-Follow up:
+
+**You are interviewing the company**
+
+Remember, the interview serves two purposes.  It allows the company to vet you as a candidate and gives you insight into their internal workings.  By knowing what you require in a position, you can approach the interview with the intent of observing and asking questions to figure out if it would be good fit.  When interviewing, I take notes throughout on my general impression, the team, the tools and environment, any questions that come up, if the position matches what I'm looking for, and if there are any red flags or deal breakers.  Other things such as lighting, ergonomic workspaces, is the equipment new or outdated, ease of commute, etc are worth noting as well.
+
+Research the company beforehand and make a list of questions to ask during the interview.  I look at the company website, search for recent mentions in the news/social media/publications/announcements, check youtube for product/hardware demos, check the stock trend if publicly traded, read reviews online, etc.  I then ask around to see if anyone in my network has worked there or has a contact who has to since it's extremely valuable to get an inside opinion.  
+
+I also ask a number of questions specific to my Software Engineering to get a feel for what the day-to-day is like.
+
+* Development environment: OS, IDEs, repositories, build tools, etc.
+* Do they have documentation? Who supports documentation? Is it up to date? SRDs, wikis, etc.  
+* Do they have unit tests? What coverage? Automated?
+* How many people are on the team?  Break down of skills and roles?
+* What is an issue the team has recently encountered?
+* What is the team currently working on?
+* Are they agile? How do they define agile? 
+* How do they estimate and determine if a task is complete?
+* How often do you have crunch time.  Rare occasion to deliver major feature? OK. Every month? Poor managers.
+* Do you provide access to training, seminars, conferences?
+* How flexible is the job?  Can you work from home?
+* Is travel involved? How often? Where?
+* How is performance measured?
+* What would I be working on in the first two weeks? months? year?
+* "What do you like best about working here?" or "Do I want to work here?"  Surprisingly I had an interviewer tell me that I did not want to work there and gave me a list of grievances.
+
+
+
+
+**Follow up:**
 I typically send a quick email thanking them for their time and any follow up questions that weren't answered during the interview.  I also ask when I should expect a decision if it wasn't stated during the interview.
 
 # The Offer <a name="offer"></a>
@@ -223,7 +250,7 @@ I typically send a quick email thanking them for their time and any follow up qu
 
 Congratulations!  You got the offer.
 
-If it's your dream job your almost done.  
+If it's your dream job you're almost done.  
 
 If you have multiple competitive offers, then you have a variety of factors to consider and a tough decision ahead.
 
