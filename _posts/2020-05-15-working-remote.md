@@ -4,9 +4,10 @@ title: "Working Remote and the Post Covid-19 Workplace"
 tags: [miscellaneous]
 ---
 
-Home sweet home...also my professional workplace.
 
 <img src="/images/20200402_151855.jpg" width="500" />
+
+Home sweet home...also my professional workplace.
 
 As the medical community continues to respond to Covid-19, businesses are assessing what the "new normal" will be as offices begin to open up.  Not only do workplaces need to follow the appropriate medical guidelines defining when it is safe for employees to begin to return, they also need to plan for access control, occupancy, distancing, cleaning, etc.  Of interest is how teams working fully remote will begin to filter back into the office.
 
