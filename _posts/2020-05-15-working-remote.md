@@ -5,7 +5,7 @@ tags: [miscellaneous]
 ---
 
 
-<img src="/images/20200402_151855.jpg" width="500" align="center" />
+<img src="/images/20200402_151855.jpg" width="500" align="middle" />
 
 Home sweet home...also my professional workplace.
 
