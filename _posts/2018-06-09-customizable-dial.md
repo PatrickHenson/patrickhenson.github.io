@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Customizable Dial Widget"
-tags: [c++, qt, open source]
+tags: [ software ]
+description: "Opensource programable analog dials for use in a C++/Qt GUI."
 ---
 
 Are you developing a C++/Qt GUI and need to display data using analog dials?

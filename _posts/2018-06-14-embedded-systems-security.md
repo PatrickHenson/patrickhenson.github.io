@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "New Book: Embedded Systems Security"
+title: "Embedded Systems Security"
 tags: [ books ]
+description: ""
 ---
 
 <img src="/images/embedded_systems_security.jpg" width="250" />

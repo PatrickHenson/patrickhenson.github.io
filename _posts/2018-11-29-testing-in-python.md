@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Testing in Python"
-tags: [software, python]
+tags: [ software ]
+description: "Comparison of unittest and pytest."
 ---
 
 Up until now, I've predominately used Python as a scripting and utility language.  My current reading topics include how to structure python projects, ensure that they're self contained (refuse to add the project filepath to the system PATH), add testing, refresher on coding standards and conventions, etc.

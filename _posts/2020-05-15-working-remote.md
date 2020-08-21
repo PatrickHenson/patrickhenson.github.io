@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Working Remote and the Post Covid-19 Workplace"
-tags: [miscellaneous]
+tags: [ career ]
+description: "Observations on how the global pandemic has changed the professional work environment."
 ---
 
 

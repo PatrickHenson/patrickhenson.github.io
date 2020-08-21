@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Austin Robotics Meetup - July 2018"
-tags: [ technology, meetup ]
+tags: [ social ]
+description: ""
 ---
 
 Beer, robots, friendly faces, etc.  Seems to be a recurring theme!

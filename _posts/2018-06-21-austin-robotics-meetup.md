@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Austin Robotics Meetup - June 2018"
-tags: [ technology, meetup ]
+tags: [ social ]
+description: ""
 ---
 
 I had a great time at this month's meetup, hosted by Maidbot. I saw several familiar faces, met new people, and jumped in and out of conversations covering a variety of technologies.  Plus, there were food trucks and plenty of beer.

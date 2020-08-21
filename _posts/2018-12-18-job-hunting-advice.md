@@ -2,6 +2,7 @@
 layout: post
 title: "Job Search - Resources, Information, and Advice"
 tags: [ career ]
+description: "Advice I use when mentoring others making a career move."
 ---
 
 This post contains information that I've found useful when planning to take the next steps in my career.  I've personally gone through this process several times, have interviewed a wide variety of candidates, and assisted friends and colleagues with their resumes and job searches.  Most of my experience is working with STEM candidates, however, the information in this post is fairly general and should be helfpul to a wider audience.
@@ -55,7 +56,7 @@ Resources:
 
 * Ask people for resumes.  There are 'example resumes' online, but I've found it much more useful to ask someone in the industry for a copy of their resume.  Most don't mind and it's a great way to collect a sample set and insight into your field.  Contact me if you'd like a copy.  My Latex resume template is also publicly available on GitHub.
 
-* Ask people to look at your resume.  Friends, family, professors, that guy you met at a conference, etc.  Even better if they don't know what a technology or skill is because you get to practice explaining it in a clear and concise manner.  They'll also help catch any spelling mistakes, gramatical errors, and missing punctuation.
+* Ask people to look at your resume.  Friends, family, professors, that guy you met at a conference, etc.  Even better if they don't know what a tech or skill is because you get to practice explaining it in a clear and concise manner.  They'll also help catch any spelling mistakes, gramatical errors, and missing punctuation.
 
 * The internet is for...resume advice.  There are an infinite number of blogs and articles (like this one!) that may have useful information.  Take what you like and ignore the rest.
 

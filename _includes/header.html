@@ -25,10 +25,23 @@
           {%- endfor -%}
 
           {%- for link in site.header_links -%}
-            <a class="page-link" href="{{ link.url }}" target="_blank">{{ link.title }}</a>
+            <a class="page-link" href="{{ link.url }}" target="_blank">{{ link.title }}</a>           
           {%- endfor -%}
         </div>
       </nav>
     {%- endif -%}
   </div>
+
+  {% if site.tags != "" %}
+  <div style="background-color: #424242; color: white; ">
+    <div class="wrapper" >
+      &bull;
+      {% assign sorted_tags = site.tags | sort %}
+      {% for tag in sorted_tags %}
+        <a style="color: white;" href="/tag/{{ tag.first }}">{{ tag.first | upcase }}</a> &bull;
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
 </header>

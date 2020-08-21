@@ -2,6 +2,7 @@
 layout: post
 title: "What Is Six Sigma"
 tags: [ books ]
+description: "How to approach a problem - Define, Measure, Analyze, Improve, and Control."
 ---
 
 Last week I made two mistakes.  First, I asked my boss what the offsite training he attended was.  Second, I asked "What is Six Sigma?" which prompted him to point to a stack of books.  Being a smart person, I picked the slimmest one possible.

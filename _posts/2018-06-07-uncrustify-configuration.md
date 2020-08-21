@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Getting Started with Uncrustify"
-tags: [linux, c++]
+tags: [ software ]
+description: "Instruction on how to configure and easily enforce linting on a C++ project."
 ---
 
 Maintaining the _style_ of your code is manageable if it's just you, but how do you handle commits from an entire team? If you haven't used a code beautifier, such as [Uncrustify](uncrustify.sourceforge.net), they're extremely useful tools that keep your codebase consistently formatted.

@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<h1>{{ page.tag | upcase }}</h1>
+
+<ul class="post-list">
+  {% for post in site.tags[page.tag] %}  
+  <li>
+    <a style="font-size: x-large;" href="{{ post.url }}">{{ post.title }}</a>
+    
+    <br>
+
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+    &bull;
+
+    {{ post.description }}
+  </li>
+  {% endfor %}
+</ul>

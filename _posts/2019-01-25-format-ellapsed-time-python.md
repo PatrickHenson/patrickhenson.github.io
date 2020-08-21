@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Formatting Ellapsed Time in Python"
-tags: [software, python]
+tags: [ software ]
+description: "Code sample to format time into a readable format."
 ---
 
 The following code snippet is a quick way to format raw ellapsed time (ms) into a readable format.

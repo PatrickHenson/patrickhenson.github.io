@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Getting Organized with Asana"
-tags: [miscellaneous]
+tags: [ career ]
+description: "Applying synchronized task lists and swimlanes to everyday life."
 ---
 
 I recently tasked myself with finding a better way to be organized, both personally and as a family.  Over the years I've used (and actively use) a variety of programs to take notes, sync across multiple devices, and share information.  Each has their uses, but I wanted a dedicated application that's lightweight, easy to setup, free or reasonably priced, and quick to explain.  My mind immediately went to the task tracking and ticketing software most software engineers and IT goons (loving term) are familiar with and I set out to find something similar.

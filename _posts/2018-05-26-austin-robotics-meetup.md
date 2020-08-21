@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Austin Robotics Meetup - May 2018"
-tags: [ technology, meetup ]
+tags: [ social ]
+description: ""
 ---
 
 This was the first time I managed to attend the Robotics & AI Meetup hosted by Diligent Robotics.  I had a great time, met a number of extremely creative people, and learned about a variety of projects and interests.

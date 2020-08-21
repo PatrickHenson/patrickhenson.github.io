@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "DZ60 Keyboard Build"
-tags: [ keyboards ]
+tags: [ projects ]
+description: "The parts, tools, and custom keymap I used to build my personal keyboard."
 ---
 
 <img src="/images/dz60_build/finished.jpg" />

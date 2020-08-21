@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "How to go insane in one week"
-tags: [career]
+tags: [ career ]
+description: "Travel, coordination, interviews, and offers."
 ---
 
 I've had several post ideas over the last few months, but have been swamped with a few major life events.  The biggest being relocating across the country a second time in the span of a year and a half.  My goal was to find the 'perfect' position that would drive my career forward as well as facilitate a move back to the Greater Boston area.

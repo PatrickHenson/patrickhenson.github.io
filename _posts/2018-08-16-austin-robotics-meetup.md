@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Austin Robotics Meetup - August 2018"
-tags: [ robotics, meetup ]
+tags: [ social ]
+description: ""
 ---
   
 <img src="/images/maidbot_sculpture.jpg" width="250" />

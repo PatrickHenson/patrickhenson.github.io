@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "New look. New feel."
-tags: [ jekyll, github ]
+tags: [ misc ]
+description: "My personal website gets revamped."
 ---
 
 Welcome to the new patrickhenson.com!
