@@ -5,8 +5,7 @@ tags: [ career ]
 description: "Observations on how the global pandemic has changed the professional work environment."
 ---
 
-
-<img src="/images/20200402_151855.jpg" width="500" align="middle" />
+<img src="/images/20200402_151855.jpg" />
 
 Home sweet home...also my professional workplace.
 

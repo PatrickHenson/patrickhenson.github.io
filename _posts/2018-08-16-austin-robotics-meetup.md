@@ -5,7 +5,7 @@ tags: [ social ]
 description: ""
 ---
   
-<img src="/images/maidbot_sculpture.jpg" width="250" />
+<img src="/images/maidbot_sculpture.jpg" />
   
 This month's meetup was hosted at MaidBot where their sculpture of discarded parts was on full display.  
 
