@@ -5,35 +5,59 @@ tag: [ software ]
 description: "Quick python program to encode messages using a substitution cipher."
 ---
 
-One of the many things I enjoy is playing tabletop RPGs.  Since I wanted to include secret messages containing 
-information and clues for players to find I decided to write a quick program to do it for me.  My goal was to easily 
-encode messages using substitution ciphers since the result is easy to decipher with or without the key and should be 
-a fun puzzle.  
+One of the many things I enjoy is playing tabletop RPGs.  Since I wanted to utilize secret messages containing 
+information and clues, I decided to write a quick program to do it for me.  This puzzle_script program encodes messages 
+using substitution ciphers, which are easy to decipher with or without the key, and should be a fun addition to the 
+game.
 
-Check my GitHub for the [puzzle_script](https://github.com/PatrickHenson/puzzle_script) repo to use it yourself.
+Check my GitHub for [puzzle_script](https://github.com/PatrickHenson/puzzle_script) to use it yourself.
 
-To make the messages feel more immersive, I used a custom font that looked like it would fit in the game's world.  The 
-comparison to the latin alphabet can be seen below.  However, it should be noted that a few of the characters 
+**The puzzle_script program works as follows:**
+
+1. Read the message to encode from a text file (default is message.txt).
+
+2. Generate the substitution cipher.
+
+3. Apply the cipher to the message.
+
+4. Render the original and encoded message in a custom font.
+
+    * I selected a custom font to make the messages feel more immersive and look unique to fit the game's world.  
+
+    * The comparison to the latin alphabet can be seen below.  It should be noted that a few of the characters 
 ('a','g','i','q') share traits (backwards 'c') that can make the custom font hard to translate if you're not paying 
 attention to small details.
 <img src="\images\substitution_cipher\alphabet.jpg" width='550' />
 
-After generating and applying the substitution cipher, the original and encoded message are rendered using the custom 
-font as images.  This allows for easy use without needing to install any font files on your computer.
+    * The output is stored as image files to allow for easy use without needing to install the font files.  
 
-For example, "this is a super secret message" turns into
-<img src="\images\substitution_cipher\original_message.jpg" width='500'/>
+5. Finally, every run is summed up in the log file containing ascii output.
 
-and substitution cipher output the following encoded string.
-<img src="\images\substitution_cipher\encoded_message.jpg" width='500'/>
+    * RANDOM SEED - value used to to generate the substitution cipher.
 
+    * MESSAGE - the original input message read from the input file.
 
-To encode multiple messages with the same key, puzzle_script takes advantage of the fun truth that "random numbers 
-aren't random."  When you run puzzle_script, you can set the random seed to a known value to ensure that the generated 
-key is the same.
+    * ENCODED MESSAGE - result after applying the substitution cipher.
+
+    * CIPHER KEY - the reversed key to allow for easy translation of the encoded message.
 
 
-Finally, every run is summed up in the log file containing ascii output.
+**Additional Functionality:**
+
+For information on input options, refer to the README in the puzzle_script repo.
+
+Most important, you can encode multiple messages using the same key since puzzle_script takes advantage of the fun 
+truth that "random numbers aren't random."  By setting the random seed to a known value, you can ensure that the 
+substitution cipher applied to the message(s) is the same over multiple runs.
+
+**Example Output:** 
+
+"This is a super secret message" turns into:
+<img src="\images\substitution_cipher\original_message.jpg" width='450'/>
+
+the encoded string is:
+<img src="\images\substitution_cipher\encoded_message.jpg" width='450'/>
+and log.txt contains:
 
 ```
 ## RANDOM SEED ##
