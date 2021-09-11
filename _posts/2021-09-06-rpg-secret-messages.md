@@ -35,7 +35,7 @@ attention to small details.
 
     * RANDOM SEED - value used to to generate the substitution cipher.
 
-    * MESSAGE - the original input message read from the input file.
+    * MESSAGE - the original message read from the input file.
 
     * ENCODED MESSAGE - result after applying the substitution cipher.
 
