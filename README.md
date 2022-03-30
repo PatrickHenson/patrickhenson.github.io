@@ -6,11 +6,33 @@ For the best experience, visit [https://patrickhenson.com](https://patrickhenson
 
 ## Build & Update
 
-```
+
 # Build local
 bundle exec jekyll serve
 
+
+# Install
+```
+# 1. Install Ruby
+sudo apt -y install ruby ruby-dev
+
+# 2. Update ~/.bashrc
+# Add the following at the bottom:
+export GEM_HOME=$HOME/gems
+export PATH=$HOME/gems/bin:$PATH
+
+# 3. Install Bundler and Jekyll
+gem install bundler
+gem install jekyll
+
+# 4. Install dependencies and update
+bundle install
+bundle update
+
+```
+
 # Update
+```
 bundle update github-pages
 
 # configuration file: ./_config.yml
