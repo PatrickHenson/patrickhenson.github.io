@@ -1,7 +1,15 @@
-<footer class="site-footer h-card">
-  <div class="wrapper">
-    
-    &copy; <a href="mailto:{{ site.email }}">{{ site.author }}</a> - Powered by <a href="https://jekyllrb.com">Jekyll</a> &amp; <a href="https://github.com/jekyll/minima">minima</a>
+<footer class="site-footer">
+  {%- assign sorted_tags = site.tags | sort -%}
+  {%- if sorted_tags.size > 0 -%}
+  <div class="footer-tags">
+    <span class="footer-label">Browse by topic</span>
+    {%- for tag in sorted_tags -%}
+      <a href="{{ "/tag/" | append: tag.first | relative_url }}">{{ tag.first }}</a>{%- unless forloop.last -%}<span class="dot">&middot;</span>{%- endunless -%}
+    {%- endfor -%}
+  </div>
+  {%- endif -%}
 
+  <div class="footer-colophon">
+    &copy; {{ site.time | date: "%Y" }} <a href="mailto:{{ site.email }}">{{ site.author }}</a> &middot; built with <a href="https://jekyllrb.com">Jekyll</a>
   </div>
 </footer>

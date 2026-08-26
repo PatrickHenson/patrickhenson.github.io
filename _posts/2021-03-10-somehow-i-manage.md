@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Somehow I Manage"
-tag: [ career ]
+tags: [ career ]
 description: "My thoughts after one year in a management role."
 ---
 

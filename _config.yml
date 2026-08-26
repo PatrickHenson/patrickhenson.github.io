@@ -18,13 +18,13 @@
 title: Patrick Henson
 author: Patrick Henson
 email: contact@patrickhenson.com
+tagline: "Notes on engineering leadership, building teams, and the systems that hold them together."
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog dedicated to software engineering, personal projects, and useful resources. 
+  A blog dedicated to software engineering, personal projects, and useful resources.
 
 # Site info
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://patrickhenson.com" # the base hostname & protocol for your site, e.g. http://example.com
-google_analytics: UA-119933231-1
 lang: en
 
 # Social links
@@ -35,7 +35,6 @@ social:
 
 # Build settings
 markdown: kramdown
-theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

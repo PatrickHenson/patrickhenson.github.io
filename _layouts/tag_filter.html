@@ -1,22 +1,20 @@
 ---
 layout: default
 ---
-
-<h1>{{ page.tag | upcase }}</h1>
+{%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
+<h1 class="page-heading">{{ page.tag }}</h1>
 
 <ul class="post-list">
-  {% for post in site.tags[page.tag] %}  
-  <li>
-    <a style="font-size: x-large;" href="{{ post.url }}">{{ post.title }}</a>
-    
-    <br>
-
-    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-    <span class="post-meta">{{ post.date | date: date_format }}</span>
-
-    &bull;
-
-    {{ post.description }}
+  {%- for post in site.tags[page.tag] -%}
+  <li class="post-item">
+    <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
+    <div class="byline">
+      <span>{{ post.date | date: date_format }}</span>
+    </div>
+    {%- if post.description and post.description != "" -%}
+    <p>{{ post.description }}</p>
+    {%- endif -%}
+    <a class="read-more" href="{{ post.url | relative_url }}">Read more &rarr;</a>
   </li>
-  {% endfor %}
+  {%- endfor -%}
 </ul>

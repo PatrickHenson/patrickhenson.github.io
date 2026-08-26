@@ -1,4 +1,5 @@
 ---
 layout: tag_filter
 tag: social
+title: "Social"
 ---

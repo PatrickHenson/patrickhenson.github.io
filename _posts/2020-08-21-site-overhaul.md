@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Site Update"
-tag: [ misc ]
+tags: [ misc ]
 description: ""
 ---
 
