@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<div class="topic-grid">
+  {%- for topic in site.data.topics -%}
+  <a class="topic-card" href="{{ topic.url | relative_url }}">
+    <h2 class="topic-title">{{ topic.title }}</h2>
+    <p class="topic-desc">{{ topic.description }}</p>
+  </a>
+  {%- endfor -%}
+</div>

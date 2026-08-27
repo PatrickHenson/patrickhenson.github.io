@@ -1,0 +1,12 @@
+- title: Personal Musings
+  description: "Posts on engineering leadership, building teams, and everything in between."
+  url: /musings/
+- title: Bookshelf
+  description: "Books that shaped how I think about engineering, leadership, and problem solving."
+  url: /bookshelf/
+- title: Projects
+  description: "Builds and experiments I've made for fun."
+  url: /projects/
+- title: About Me
+  description: "Who I am, what I do, and how I got here."
+  url: /about/
