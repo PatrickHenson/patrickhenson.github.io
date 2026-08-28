@@ -2,9 +2,9 @@
 layout: post
 title: "The Manager's Path"
 tags: [ books ]
-description: "A clear-eyed map of the engineering management ladder, from tech lead to executive, written by someone who's actually walked it."
+description: "A map of the engineering management ladder, from tech lead to executive, with useful information at each level."
 ---
 
 The Manager's Path — Camille Fournier
 
-A clear-eyed map of the engineering management ladder, from tech lead to executive, written by someone who's actually walked it.
+A map of the engineering management ladder, from tech lead to executive, with useful information at each level.
