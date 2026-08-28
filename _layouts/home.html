@@ -7,19 +7,23 @@ layout: default
 
 {{ content }}
 
-{%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
-{%- if site.posts.size > 0 -%}
+{%- assign visible_count = 0 -%}
+{%- for post in site.posts -%}
+  {%- unless post.tags contains 'books' or post.tags contains 'projects' -%}
+    {%- assign visible_count = visible_count | plus: 1 -%}
+  {%- endunless -%}
+{%- endfor -%}
+{%- if visible_count > 0 -%}
 <ul class="post-list">
   {%- for post in site.posts -%}
+  {%- unless post.tags contains 'books' or post.tags contains 'projects' -%}
   <li class="post-item">
     <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
+    {%- if post.tags.size > 0 -%}
     <div class="byline">
-      <span>{{ post.date | date: date_format }}</span>
-      {%- if post.tags.size > 0 -%}
-      <span class="dot">&middot;</span>
       <a class="tag" href="{{ "/tag/" | append: post.tags.first | relative_url }}">{{ post.tags.first }}</a>
-      {%- endif -%}
     </div>
+    {%- endif -%}
     {%- if site.show_excerpts -%}
       <p>{{ post.excerpt | strip_html | truncatewords: 40 }}</p>
       <a class="read-more" href="{{ post.url | relative_url }}">Read more &rarr;</a>
@@ -27,6 +31,7 @@ layout: default
       {{ post.content }}
     {%- endif -%}
   </li>
+  {%- endunless -%}
   {%- endfor -%}
 </ul>
 {%- endif -%}
